@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Rupee';
+    src: url('fonts/Rupee.eot');
+    src: url('fonts/Rupee.eot') format('embedded-opentype'),
+         url('fonts/Rupee.woff2') format('woff2'),
+         url('fonts/Rupee.woff') format('woff'),
+         url('fonts/Rupee.ttf') format('truetype'),
+         url('fonts/Rupee.svg#Rupee') format('svg');
+}
